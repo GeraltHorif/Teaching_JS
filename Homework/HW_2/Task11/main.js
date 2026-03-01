@@ -1,4 +1,5 @@
-let x = NaN;
+let x;
+x = NaN;
 
 if (!x) {
     x = 'default';
