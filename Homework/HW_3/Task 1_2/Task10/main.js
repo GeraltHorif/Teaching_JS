@@ -7,7 +7,7 @@ array[4] = 'strong';
 array[5] = 'pong';
 array[6] = false;
 array[7] = 'ping';
-array[8] = 09585;
+array[8] = 9585;
 array[9] =  true;
 
 for (let a = 0; a < array.length; a++){

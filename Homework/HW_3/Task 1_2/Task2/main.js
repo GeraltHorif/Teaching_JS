@@ -7,6 +7,6 @@ emptyArray[3] =  true;
 emptyArray[4] =  false;
 emptyArray[5] =  'school';
 emptyArray[6] =  false;
-emptyArray[7] =  0708748758;
+emptyArray[7] =  708748758;
 
 console.log(emptyArray);
