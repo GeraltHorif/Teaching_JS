@@ -46,6 +46,7 @@ nextBtn.onclick = function () {
 prevBtn.onclick = function () {
     if (currentPage > 1) {
         currentPage = currentPage - 1;
+        renderPage(currentPage)
     }
 };
 
